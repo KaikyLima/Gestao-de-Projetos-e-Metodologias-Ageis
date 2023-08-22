@@ -63,14 +63,5 @@ Identificar os riscos críticos que podem afetar negativamente o sucesso do proj
 |Tecnológico|falha de software|Software apresentar mal funcionamento|2|5|
 |Mercado|concorrencias com outros sistemas|Softwares parecidos podem gerar uma concorrência, fazendo com que menos clientes acessem o aplicativo|4|3|
 |Equipe|Falta de comunicação entres os membros|Se os desenvolvedores não tiverem uma boa comunicação, poderá ocorrer conflientes de interesses e gerar bugs e atrassos|3|3|
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
+|Mercado|Rejeição do produto pelo publico|O publico pode não gostar da proposta do software, fazendo com que ele seje um fracasso|3|5|
+|Equipe|Atraso na entrega do produto|A equipe por não se organizar direito, pode gerar atrasos no desenvolvimento do projeto|2|4|
