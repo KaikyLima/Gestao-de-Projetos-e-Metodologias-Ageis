@@ -56,12 +56,12 @@ Identificar os riscos críticos que podem afetar negativamente o sucesso do proj
     SUA RESPOSTA AQUI:
 
 
-|CATEGORIA|	RISCO|	DESCRIÇÃO|	PROBABILIDADE|	IMPACTO|
-|---|---|---|---|---|
-|Tecnológico|Vazamento de dados|O sistema pode deixar que informações confidenciais sejam acessados por usuário indevidos|2|3|
-|Tecnológico| Permtiri que terceiros acessem os eventos do usuário|O terceiro poderá excluir, editar e excluir enventos sem a devida permissão do usuário propiretário|1|5|
-|Tecnológico|falha de software|Software apresentar mal funcionamento|2|5|
-|Mercado|concorrencias com outros sistemas|Softwares parecidos podem gerar uma concorrência, fazendo com que menos clientes acessem o aplicativo|4|3|
-|Equipe|Falta de comunicação entres os membros|Se os desenvolvedores não tiverem uma boa comunicação, poderá ocorrer conflientes de interesses e gerar bugs e atrassos|3|3|
-|Mercado|Rejeição do produto pelo publico|O publico pode não gostar da proposta do software, fazendo com que ele seje um fracasso|3|5|
-|Equipe|Atraso na entrega do produto|A equipe por não se organizar direito, pode gerar atrasos no desenvolvimento do projeto|2|4|
+| CATEGORIA   | RISCO                                                | DESCRIÇÃO                                                                                                               | PROBABILIDADE | IMPACTO |
+| ----------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------- | ------- |
+| Tecnológico | Vazamento de dados                                   | O sistema pode deixar que informações confidenciais sejam acessados por usuário indevidos                               | 2             | 3       |
+| Tecnológico | Permtiri que terceiros acessem os eventos do usuário | O terceiro poderá excluir, editar e excluir enventos sem a devida permissão do usuário propiretário                     | 1             | 5       |
+| Tecnológico | falha de software                                    | Software apresentar mal funcionamento                                                                                   | 2             | 5       |
+| Mercado     | concorrencias com outros sistemas                    | Softwares parecidos podem gerar uma concorrência, fazendo com que menos clientes acessem o aplicativo                   | 4             | 3       |
+| Equipe      | Falta de comunicação entres os membros               | Se os desenvolvedores não tiverem uma boa comunicação, poderá ocorrer conflientes de interesses e gerar bugs e atrassos | 3             | 3       |
+| Mercado     | Rejeição do produto pelo publico                     | O publico pode não gostar da proposta do software, fazendo com que ele seje um fracasso                                 | 3             | 5       |
+| Equipe      | Atraso na entrega do produto                         | A equipe por não se organizar direito, pode gerar atrasos no desenvolvimento do projeto                                 | 2             | 4       |
