@@ -37,6 +37,18 @@
 | alta utilização de armazenamento                         | 2             | 3       | 3           |
 | violação de leis e direitos                              | 2             | 4       | 4           |
 
+# 4 - Desenvolvimento de Estratégias: Para cada risco identificado,  desenvolver estratégias para lidar com eles.
+
+- Devem ser realizados treinamentos para aumentar a eficiência do algoritmo
+- Podem ser realizados testes no algoritmo com informações incorretas
+- Desenvolvimento multiplataforma
+- Levantamento das aplicações com mesmo propósito
+- Testes de segurança
+- Validação da utilização por pequenos grupos de usuários
+- Realizar teste de carga 
+- Validar aplicação e suas diretrizes com especialistas
+- Ferramenta para gestão do projeto
+  
 # 6. Comunicação e Monitoramento: destacar a importância da comunicação contínua sobre os riscos identificados e das revisões periódicas do plano de ação à medida que o projeto avança.
 
 - Informar e envolver os participantes do projeto, fortalecendo a confiança e a cooperação.
