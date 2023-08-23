@@ -51,6 +51,8 @@
 
     Falha de segurança: Adicinar sistemas ant-bots, e verificações de duas etapas.
 
+**7. Comunicação de Riscos: Escreva um comunicado para a equipe do projeto e os stakeholders principais, destacando os riscos identificados e as estratégias de mitigação planejadas. Explique por que esses riscos são importantes e como a equipe está trabalhando para enfrentá-los.**
 
+    O gerencimento correto dos itens do inventário da empresa efetam diretamente a vida e o trabalho dos membros da equipe. Com falhas de segurança, onde os usuário possuem acesso indevido a esse sistema a probabilidade de afetar diretamente o bem estar de cada membro e lucros da empresa é grande. Também podem ser ocasionados falhas e percas por meio de registros realizados de forma incorreta, o que pode resultar em grandes prejuizos para a empresa. Com uma equipe qualificada, por meio de treinamentos ou uma boa relação, os riscos que envolvem falha de operação são reduzidos, isso também afeta os tópicos sobre a segurança e acesso de terceiros, visto que devem ser aplicadas boas práticas para proteger as credenciais. Além disso, a equipe de desenvolvimento também pode realizar implementações de baixo nível para proteger contra ataques que envolvem a segurança da aplicação e da empresa
 
 
