@@ -1,4 +1,4 @@
-**1. Identificação de Riscos: identifiquem possíveis riscos que podem afetar o sucesso do projeto.**
+# 1. Identificação de Riscos: identifiquem possíveis riscos que podem afetar o sucesso do projeto.**
 
     1. Sistema de reconhecimento fraco: o aplicativo pode não ser capaz de identificar corretamente as espécies de plantas e animais, gerando resultados errados ou incompletos.
 
@@ -20,9 +20,9 @@
 
     10. Violação de leis e direitos: o aplicativo pode infringir leis ou direitos relacionados à propriedade intelectual, proteção ambiental ou responsabilidade civil, gerando processos judiciais, multas ou proibições.
 
-**2. Avaliação de Riscos: avaliem a probabilidade de cada risco ocorrer e o impacto que teria no projeto.**
+# 2. Avaliação de Riscos: avaliem a probabilidade de cada risco ocorrer e o impacto que teria no projeto.**
 
-**3. Priorização de Riscos: Com base na avaliação de probabilidade e impacto, realize o processo de priorização dos riscos.**
+# 3. Priorização de Riscos: Com base na avaliação de probabilidade e impacto, realize o processo de priorização dos riscos.**
 
 | RISCO                                                    | PROBABILIDADE | IMPACTO | PRIORIZAÇÃO |
 | -------------------------------------------------------- | ------------- | ------- | ----------- |
