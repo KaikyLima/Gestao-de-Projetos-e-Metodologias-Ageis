@@ -43,3 +43,7 @@
 #### Funcionalidades que podem ser exluídas: 
 - Agendamentos e datas
 - filtras tarefas
+
+
+# Atividade 02: Estimativa e recursos de Projetos
+
