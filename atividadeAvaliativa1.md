@@ -48,6 +48,44 @@
 - Realizar teste de carga 
 - Validar aplicação e suas diretrizes com especialistas
 - Ferramenta para gestão do projeto
+
+# 5 - Plano de Ação: criar um plano de ação que detalhe as medidas a serem tomadas para lidar com os riscos. Isso pode incluir quem é responsável por cada ação, datas de execução e recursos necessários.
+
+- Treinamentos para Aumentar a Eficiência do Algoritmo
+	- Responsável: Departamento de Desenvolvimento;
+	- Recursos Necessários: Disponibilidade para um treinamento intensivo com a ia, para chegar até um patarmar adequado para produção;
+
+- Testes com Informações Incorretas
+	- Responsável: Equipe de Qualidade e Desenvolvimento;
+	- Recursos Necessários: Conjuntos de dados de teste, ambiente de testes;
+
+- Desenvolvimento Multiplataforma
+	- Responsável: Equipe de Desenvolvimento;
+	- Recursos Necessários: Ambientes de desenvolvimento para cada plataforma, especialistas em desenvolvimento multiplataforma;
+
+- Levantamento das Aplicações com Mesmo Propósito
+	- Responsável: Equipe de Pesquisa de Mercado;
+	- Recursos Necessários: Tempo de pesquisa, acesso a informações de mercado;
+
+- Testes de Segurança
+	- Responsável: Equipe de Qualidade e Desenvolvimento;
+	- Recursos Necessários: Ferramentas de teste de segurança, especialistas em segurança;
+
+- Validação da Utilização por Pequenos Grupos de Usuários
+	- Responsável: Departamento de marketing e teste;
+	- Recursos Necessários: Grupos de usuários voluntários, ambiente de teste, disponibilização de um grupo de testers;
+
+- Realizar Teste de Carga
+	- Responsável: Equipe de Desenvolvimento;
+	- Recursos Necessários: Ferramentas de teste de carga, servidores, testes voltados ao estresse da aplicação;
+
+- Validar Aplicação e Suas Diretrizes com Especialistas
+	- Responsável: Equipe de Desenvolvimento e Especialistas;
+	- Recursos Necessários: Acesso a especialistas, tempo para revisão;
+
+- Ferramenta para Gestão do Projeto
+	- Responsável: Equipe de Desenvolvimento;
+	- Recursos Necessários: Software de gestão de projetos, treinamento para a equipe;
   
 # 6. Comunicação e Monitoramento: destacar a importância da comunicação contínua sobre os riscos identificados e das revisões periódicas do plano de ação à medida que o projeto avança.
 
