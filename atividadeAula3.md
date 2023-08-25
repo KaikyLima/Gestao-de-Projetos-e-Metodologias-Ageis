@@ -44,6 +44,7 @@
 - Agendamentos e datas
 - filtras tarefas
 
+<<<<<<< HEAD
 # 7. Apresentação: apresentem seus resultados, destacando os riscos identificados, as estratégias propostas e o plano de ação, em formato de apresentação ou relatório. (Pode ser descrito em formato de um documento txt).
 
 ### Relatório de Definição de Escopo e Funcionalidades
@@ -148,3 +149,6 @@ O escopo deste projeto abrange o desenvolvimento de um aplicativo móvel que per
     - Avaliar a recepção do aplicativo, coletar feedback e realizar ajustes conforme necessário.
 ### Conclusão:
 Este relatório definiu o escopo do projeto de desenvolvimento de um aplicativo de agendamento para clínica médica, bem como as funcionalidades essenciais, opcionais e as que podem ser excluídas. Além disso, foram destacados os riscos identificados, as estratégias propostas e o plano de ação para garantir o sucesso do projeto. O desenvolvimento planejado e estruturado proporcionará um aplicativo eficaz e conveniente para pacientes e profissionais de saúde.
+=======
+
+# Atividade 02: Estimativa e recursos de Projetos
